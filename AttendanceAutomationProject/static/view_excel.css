@@ -1,0 +1,49 @@
+
+input[type=text], select, input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 5px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 14px;
+    box-sizing: border-box;
+  }
+  
+  input[type=submit] {
+    width: 100%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  
+  
+  div {
+    
+    border-radius: 35px;
+    background-color: #a4a3dd;
+    padding: 50px;
+    margin:280px 750px ;
+    font-family:sans-serif;
+  }
+  body{
+    background-image: url("../static/view.jpg");
+    margin: 0%;
+    min-height: 680px;
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+ 
+  h2{
+      text-align: center;
+  }
+  
